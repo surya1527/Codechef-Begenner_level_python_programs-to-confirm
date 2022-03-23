@@ -5,4 +5,4 @@ else:
     N-=1                    #DECREMENTING
 
 
-print(N)
+print(N) 
