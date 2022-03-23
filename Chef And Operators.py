@@ -7,3 +7,4 @@ for i in range (t):
         print(">")
     elif (A == B):
         print("=")
+ 
